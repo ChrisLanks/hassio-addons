@@ -40,7 +40,7 @@ options:
   email_email: ""	
   email_key: ""
   email_host: ""
-  email_port:	""
+  email_port:	"8888"
   email_appHost: ""
 
 
